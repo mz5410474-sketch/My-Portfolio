@@ -12,43 +12,36 @@ useEffect(() => {
   // ✅ حط الفيديو مباشرة هنا (بدون images ولا JSON)
   const works = [
     {
-      title: "Test Video",
       video: require("../../assets/reels/reel_1.mp4"), // 👈 غيّر المسار لو مختلف
       thumbnail: require("../../assets/thumbnail/sump_1.png"), // 👈 غيّر المسار لو مختلف
       title:"Grow Up Your Brand"
     },
     {
-      title: "Test Video",
       video: require("../../assets/reels/reel_2.mp4"), // 👈 غيّر المسار لو مختلف
             thumbnail: require("../../assets/thumbnail/sump_2.png"), // 👈 غيّر المسار لو مختلف
 title:"Visuals That Sell Food"
     },
     {
-      title: "Test Video",
       video: require("../../assets/reels/reel_3.mp4"), // 👈 غيّر المسار لو مختلف
             thumbnail: require("../../assets/thumbnail/sump_3.png"), // 👈 غيّر المسار لو مختلف
             title:"Color Changes Everything"
             
           },
           {
-            title: "Test Video",
             video: require("../../assets/reels/reel_4.mp4"), // 👈 غيّر المسار لو مختلف
             thumbnail: require("../../assets/thumbnail/sump_4.png"),
             title:"Fast Motion, Clear Message, More Views"
           },
           {
-            title: "Test Video",
             video: require("../../assets/reels/reel_5.mp4"), // 👈 غيّر المسار لو مختلف
             thumbnail: require("../../assets/thumbnail/sump_5.png"), // 👈 غيّر المسار لو مختلف
             title:"Be Creative"
           },
           {
-            title: "Test Video",
             video: require("../../assets/reels/reel_6.mp4"), // 👈 غيّر المسار لو مختلف
             title:"Make Every Video Different"
           },
           {
-            title: "Test Video",
             video: require("../../assets/reels/reel_7.mp4"), // 👈 غيّر المسار لو مختلف
             title:"Make Your Videos Stand Out"
     },
