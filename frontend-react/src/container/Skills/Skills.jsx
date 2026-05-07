@@ -1,23 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { motion } from "framer-motion";
 import { images } from "../../constants";
 
 const Skills = () => {
-  const [experience, setExperience] = useState(images.experiences);
-  const [skills, setSkills] = useState(images.skills);
-
-  // useEffect(() => {
-  //   const query = '*[_type == "experiences"]';
-  //   const skillsQuery = '*[_type == "skills"]';
-  //   client.fetch(query).then((data) => {
-  //     setExperience(data);
-  //   });
-
-  //   client.fetch(skillsQuery).then((data) => {
-  //     setSkills(data);
-  //   });
-  // }, []);
-
   return (
     <section
       className="xl:min-h-[100vh] border-t-[1px] border-[#ffffff2e] py-20"
