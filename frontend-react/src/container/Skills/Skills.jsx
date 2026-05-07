@@ -1,8 +1,10 @@
-import React from "react";
+import React , {useState} from "react";
 import { motion } from "framer-motion";
 import { images } from "../../constants";
 
 const Skills = () => {
+  const [experience, setExperienc] = useState(images.experiences);
+  const [skills, setSkills] = useState(images.skills);
   return (
     <section
       className="xl:min-h-[100vh] border-t-[1px] border-[#ffffff2e] py-20"
