@@ -38,11 +38,13 @@ title:"Visuals That Sell Food"
             title:"Be Creative"
           },
           {
-            video: require("../../assets/reels/reel_6.mp4"), // 👈 غيّر المسار لو مختلف
+            video: require("../../assets/reels/reel_6.mp4"), 
+            thumbnail: require("../../assets/thumbnail/sump_6.png"),
             title:"Make Every Video Different"
           },
           {
-            video: require("../../assets/reels/reel_7.mp4"), // 👈 غيّر المسار لو مختلف
+            video: require("../../assets/reels/reel_7.mp4"),
+            thumbnail: require("../../assets/thumbnail/sump_7.png"),
             title:"Make Your Videos Stand Out"
     },
   ];
