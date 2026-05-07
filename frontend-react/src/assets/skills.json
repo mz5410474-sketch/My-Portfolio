@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Premiere-Pro",
+    "imgurl":"premiere"
+  },
+  {
+    "name":"DaVinci",
+    "imgurl":"davinci"
+  },
+  {
+    "name":"CapCut",
+    "imgurl":"capcut"
+  },
+  {
+    "name":"PhotoShop",
+    "imgurl":"photoshop"
+  },
+  {
+    "name":"Illustrator",
+    "imgurl":"illustrator"
+  },
+  {
+    "name":"Higgsfield",
+    "imgurl":"higgsfield"
+  }
+]
